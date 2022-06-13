@@ -1,0 +1,84 @@
+C:\Users\sadikturan\Documents\Visual Studio 2017\Projects\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+C:\Users\sadikturan\Documents\Visual Studio 2017\Projects\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+C:\Users\sadikturan\Documents\Visual Studio 2017\Projects\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+C:\Users\sadikturan\Documents\Visual Studio 2017\Projects\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+C:\Users\sadikturan\Documents\Visual Studio 2017\Projects\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Documents\Visual Studio 2017\Projects\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+C:\Users\sadikturan\Documents\Visual Studio 2017\Projects\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\5-Değişkenler-Uygulama-2\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\5-Değişkenler-Uygulama-2\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\5-Değişkenler-Uygulama-2\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\5-Değişkenler-Uygulama-2\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\5-Değişkenler-Uygulama-2\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\5-Değişkenler-Uygulama-2\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\5-Değişkenler-Uygulama-2\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\6-Operatörler\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\6-Operatörler\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\6-Operatörler\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\6-Operatörler\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\6-Operatörler\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\6-Operatörler\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\6-Operatörler\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\7-Operatörler - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\7-Operatörler - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\7-Operatörler - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\7-Operatörler - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\7-Operatörler - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\7-Operatörler - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\7-Operatörler - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\8-Koşul İfadeleri\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\8-Koşul İfadeleri\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\8-Koşul İfadeleri\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\8-Koşul İfadeleri\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\8-Koşul İfadeleri\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\8-Koşul İfadeleri\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\8-Koşul İfadeleri\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\9-Koşul İfadeleri - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\9-Koşul İfadeleri - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\9-Koşul İfadeleri - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\9-Koşul İfadeleri - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\9-Koşul İfadeleri - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\9-Koşul İfadeleri - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\9-Koşul İfadeleri - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\11-Döngüler-Uygulama-1\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\11-Döngüler-Uygulama-1\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\11-Döngüler-Uygulama-1\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\11-Döngüler-Uygulama-1\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\11-Döngüler-Uygulama-1\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\11-Döngüler-Uygulama-1\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\11-Döngüler-Uygulama-1\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\16-Diziler - Uygulama - 1\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\16-Diziler - Uygulama - 1\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\16-Diziler - Uygulama - 1\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\16-Diziler - Uygulama - 1\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\16-Diziler - Uygulama - 1\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\16-Diziler - Uygulama - 1\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\16-Diziler - Uygulama - 1\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\17-Diziler - Uygulama - 2\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\17-Diziler - Uygulama - 2\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\17-Diziler - Uygulama - 2\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\17-Diziler - Uygulama - 2\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\17-Diziler - Uygulama - 2\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\17-Diziler - Uygulama - 2\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\17-Diziler - Uygulama - 2\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\18-Sınıf\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\18-Sınıf\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\18-Sınıf\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\18-Sınıf\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\18-Sınıf\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\18-Sınıf\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\18-Sınıf\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\20-Metotlar\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\20-Metotlar\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\20-Metotlar\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\20-Metotlar\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\20-Metotlar\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\20-Metotlar\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\20-Metotlar\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\21-Metotlar - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe.config
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\21-Metotlar - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\21-Metotlar - Uygulama\CsharpFundamentals\CsharpFundamentals\bin\Debug\CsharpFundamentals.pdb
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\21-Metotlar - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csprojAssemblyReference.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\21-Metotlar - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\21-Metotlar - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.exe
+D:\OneDrive\kurslar\Komple Uygulamalı Web Geliştirme\9-C# Programlama\21-Metotlar - Uygulama\CsharpFundamentals\CsharpFundamentals\obj\Debug\CsharpFundamentals.pdb
